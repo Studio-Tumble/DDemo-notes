@@ -5,5 +5,6 @@
 
 ### 更新方式为直接从git上传文件，多为pdf形式
 ### 个人使用的notability常用为pdf格式
+### 部分笔记文件使用markdown转pdf格式
 ### GitHub是外网，所以pdf方便在手机上查看
 
